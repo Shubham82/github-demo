@@ -1,6 +1,6 @@
 //Copyright 2021 Git Training//
 
-Pointers:
+Steps:
 
 Test Git Quick start Demo
 Test Various Git Commands
