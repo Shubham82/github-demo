@@ -1,6 +1,9 @@
 //Copyright 2021 Git Training//
 
+Pointers:
+
 Test Git Quick start Demo
 Test Various Git Commands
 Git Branch and Merging Example: Fast Forward
 Git Automatic merge.
+Git Merge conflicts and Resolution
