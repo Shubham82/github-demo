@@ -7,3 +7,4 @@ Test Various Git Commands
 Git Branch and Merging Example: Fast Forward
 Git Automatic merge.
 Git Merge conflicts and Resolution
+Check git push
